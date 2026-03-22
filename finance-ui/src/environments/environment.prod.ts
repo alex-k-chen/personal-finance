@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://your-rails-api.fly.dev/api'
+  apiUrl: 'https://personal-finance-api-pcqp.onrender.com/api'
 };

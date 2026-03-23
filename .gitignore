@@ -16,3 +16,4 @@
 .prettierignore
 finance-api/config/master.key
 config/master.key
+finance-api/tmp/

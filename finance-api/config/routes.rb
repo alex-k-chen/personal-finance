@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get "up", to: proc { [200, {}, ["ok"]] }
+
   namespace :api do
     # Auth
     post   "auth/login",   to: "auth#login"

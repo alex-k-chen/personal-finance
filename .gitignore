@@ -17,3 +17,5 @@
 finance-api/config/master.key
 config/master.key
 finance-api/tmp/
+finance-api/storage/*.sqlite3-shm
+finance-api/storage/*.sqlite3-wal
